@@ -1,0 +1,38 @@
+[
+  {
+    "id": "REQ-7529",
+    "userId": "USR-3439",
+    "name": "kapil mahar",
+    "emailHash": "921932464ee492b232c753c926d6a11d57c8595f378efa1bf56c3b39030f2d4d",
+    "service": "Web Development",
+    "budget": "$1,500 – $3,000",
+    "brief": "Hil hello",
+    "status": "In Progress",
+    "progress": 0,
+    "createdAt": "2026-11-25T13:04:00.068Z"
+  },
+  {
+    "id": "REQ-9747",
+    "userId": "USR-5300",
+    "name": "Nidhi Mankar",
+    "emailHash": "7af3084c839c77afa9c5439abfa09e1e2dbea6afa32fdb83e08b2db1a1c2608e",
+    "service": "AI Agents",
+    "budget": "$1,500 – $3,000",
+    "brief": "hi sir",
+    "status": "New",
+    "progress": 10,
+    "createdAt": "2026-11-25T10:11:41.658Z"
+  },
+  {
+    "id": "REQ-2001",
+    "userId": "USR-1001",
+    "name": "Aarav Sharma",
+    "emailHash": "400bff5968c2d4c855ef9c44179b96d10273cb47fefef0900d7c93a6701e5481",
+    "service": "Web Development",
+    "budget": "$7,500 – $15,000",
+    "brief": "Full-stack B2B SaaS analytics portal with role-based auth and Stripe billing.",
+    "status": "In Progress",
+    "progress": 75,
+    "createdAt": "2026-11-24T14:30:00Z"
+  }
+]
